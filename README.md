@@ -1,2 +1,2 @@
 # bilibili-box
-##详见Bilibili-aides/doc文件夹
+## 详见Bilibili-box/doc文件夹
